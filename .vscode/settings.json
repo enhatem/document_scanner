@@ -1,0 +1,19 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/elie/ros_ws/install/trajectory_publisher/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/ls2n_drone_support/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/slider_publisher/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/py_srvcli/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/py_pubsub/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/ls2n_drone_simulation/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/ls2n_drone_command_center/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/ls2n_drone_bridge/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/px4_msgs/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/ls2n_tools/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/ls2n_fpr_control/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/ls2n_interfaces/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/ls2n_fpr_interfaces/lib/python3.8/site-packages",
+        "/home/elie/ros_ws/install/ls2n_crazyflie_nmpc/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}

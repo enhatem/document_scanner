@@ -1,0 +1,18 @@
+/opt/clion-2020.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/elie/tutorials/c++/openCV/document_scanner
+-- The C compiler identification is GNU 9.3.0
+-- The CXX compiler identification is GNU 9.3.0
+-- Check for working C compiler: /bin/x86_64-linux-gnu-gcc-9
+-- Check for working C compiler: /bin/x86_64-linux-gnu-gcc-9 - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /bin/x86_64-linux-gnu-g++-9
+-- Check for working CXX compiler: /bin/x86_64-linux-gnu-g++-9 - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/elie/tutorials/c++/openCV/document_scanner/build

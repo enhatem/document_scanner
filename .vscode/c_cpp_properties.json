@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/elie/ros_ws/install/px4_msgs/include/**",
+        "/home/elie/ros_ws/install/ls2n_interfaces/include/**",
+        "/home/elie/ros_ws/install/ls2n_fpr_interfaces/include/**",
+        "/opt/ros/galactic/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
