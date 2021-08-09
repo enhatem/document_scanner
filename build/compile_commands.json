@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/elie/tutorials/c++/openCV/document_scanner/build",
-  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/document_scanner.dir/src/main.cpp.o -c /home/elie/tutorials/c++/openCV/document_scanner/src/main.cpp",
-  "file": "/home/elie/tutorials/c++/openCV/document_scanner/src/main.cpp"
-}
-]
